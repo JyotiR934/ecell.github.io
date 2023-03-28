@@ -1,0 +1,83 @@
+body {
+    background-image: url(Logo_vssut.svg.png);
+    background-repeat: no-repeat;
+}
+
+body {
+    background-color: rgba(146, 138, 138, 0.477);
+}
+
+h2 {
+    color: black;
+}
+
+.main {
+    height: 850px;
+    width: 400px;
+    background-color: rgba(156, 80, 232, 0.414);
+    padding-left: 10px;
+
+
+}
+
+.main {
+    font-size: 20px;
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.main {
+    border-style: double;
+    border-width: 5px;
+    border-color: green;
+    border-radius: 15px;
+    box-shadow: inset 1px 1px 5px rgba(0,0,0,0.3) ;
+}
+
+.float-right {
+    float: right;
+}
+
+.fixed1 {
+    position: fixed;
+}
+
+.fixed2 {
+    position: fixed;
+}
+
+.fixed3 {
+    position: fixed;
+}
+
+.fixed4 {
+    position: fixed;
+}
+
+.sticky {
+    position: sticky;
+    top: 0%;
+    background-color: blue;
+}
+.text{
+    margin-top: 70%;
+    font-size: 20px;
+}
+input#name{
+    border-radius: 5px;
+    width:300px;
+    height:25px;
+}
+input#regdno{
+    border-radius: 5px;
+    width:300px;
+    height:25px;
+}
+input#tel{
+    border-radius: 5px;
+    width:250px;
+    height:20px;
+}
+input#gmail{
+    border-radius: 5px;
+}
